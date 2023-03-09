@@ -1,8 +1,5 @@
 # Bed and Breakfast booking/reservation webapp
 
-The repository for [Building Modern Web Applications with Go](https://www.udemy.com/course/building-modern-web-applications-with-go/?referralCode=0415FB906223F10C6800).
-
-
 
 - Built in Go version 1.20
 - Uses the [chi router](github.com/go-chi/chi)
