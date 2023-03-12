@@ -6,9 +6,9 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/tsawler/bookings-app/pkg/config"
-	"github.com/tsawler/bookings-app/pkg/models"
-	"github.com/tsawler/bookings-app/pkg/render"
+	"github.com/blakegates/bookings-app/internal/config"
+	"github.com/blakegates/bookings-app/internal/models"
+	"github.com/blakegates/bookings-app/internal/render"
 )
 
 // Repo the repository used by the handlers
